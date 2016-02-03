@@ -1,0 +1,3 @@
+FROM haproxy:1.6.3
+
+EXPOSE 8000-9000
